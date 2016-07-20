@@ -43,21 +43,21 @@
         <div class="col-sm-4">
             <div class="panel panel-primary">
                 <div class="panel-heading">INDIAN BESTSELLER</div>
-                <div class="panel-body"><img src="images/a1.jpg" class="img-responsive" style="width:25%"></div>
+                <div class="panel-body"><img src="a1.jpg" class="img-responsive" style="width:25%"></div>
                 <div class="panel-footer">Rs 716</div>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="panel panel-primary">
                 <div class="panel-heading">INDIAN BESTSELLER</div>
-                <div class="panel-body"><img src="images/a2.jpg" class="img-responsive" style="width:25%"></div>
+                <div class="panel-body"><img src="a2.jpg" class="img-responsive" style="width:25%"></div>
                 <div class="panel-footer">Rs 86</div>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="panel panel-primary">
                 <div class="panel-heading">INDIAN BESTSELLER</div>
-                <div class="panel-body"><img src="images/a3.jpg" class="img-responsive" style="width:25%"></div>
+                <div class="panel-body"><img src="a3.jpg" class="img-responsive" style="width:25%"></div>
                 <div class="panel-footer">Rs 176</div>
             </div>
         </div>
@@ -69,21 +69,21 @@
         <div class="col-sm-4">
             <div class="panel panel-primary">
                 <div class="panel-heading">INTERNATIONAL BESTSELLER</div>
-                <div class="panel-body"><img src="images/a7.jpg" class="img-responsive" style="width:25%"></div>
+                <div class="panel-body"><img src="a7.jpg" class="img-responsive" style="width:25%"></div>
                 <div class="panel-footer">$11.29</div>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="panel panel-primary">
                 <div class="panel-heading">INTERNATIONAL BESTSELLER</div>
-                <div class="panel-body"><img src="images/a8.jpg" class="img-responsive" style="width:25%"></div>
+                <div class="panel-body"><img src="a8.jpg" class="img-responsive" style="width:25%"></div>
                 <div class="panel-footer">$32.99</div>
             </div>
         </div>
         <div class="col-sm-4">
             <div class="panel panel-primary">
                 <div class="panel-heading">INTERNATIONAL BESTSELLER</div>
-                <div class="panel-body"><img src="images/a9.jpg" class="img-responsive" style="width:25%"></div>
+                <div class="panel-body"><img src="a9.jpg" class="img-responsive" style="width:25%"></div>
                 <div class="panel-footer">$9.57</div>
             </div>
         </div>
