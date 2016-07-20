@@ -50,7 +50,7 @@
         <div class="col-sm-4">
             <div class="panel panel-primary">
                 <div class="panel-heading">INDIAN BESTSELLER</div>
-                <div class="panel-body"><img src="a2.jpg" class="img-responsive" style="width:25%"></div>
+                <div class="panel-body"><img src="image/a2.jpg" class="img-responsive" style="width:25%"></div>
                 <div class="panel-footer">Rs 86</div>
             </div>
         </div>
